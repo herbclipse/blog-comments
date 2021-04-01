@@ -1,7 +1,3 @@
-<script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
-        issue-term="url"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
+{
+        "origins": ["https://blog.pupustory.name"]
+}
